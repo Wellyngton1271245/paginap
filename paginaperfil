@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html lang = 'pt-br'>
+<head>
+    <title>perfil</title>
+    <meta charset="utf-8">
+<link rel="stylesheet" type = 'text/css' href="estiloperfil.css">
+    <body>
+        <header>
+            <div class='perfil'>
+             <h1>Nome: Wellyngton Tavares Monteiro</h1>
+                <img src="imagem-perfil/foto-perfil.jpg" alt="Foto de perfil" title="Wellyngton"width="150">
+            </div>
+
+           
+            
+        </header>
+    <div>
+        <img class = "facebook" src ='imagem-perfil/facebook.png' height="30">
+        <li class = "facebook">Facebook:Wellyngton Tavares Monteiro</li>   
+    
+   
+    <img src ='imagem-perfil/twitter.png' height="30">  <li>Twitter:@umemailquenaoe1</li>
+</div>
+
+
+</head>
+<footer>
+    <h1>Página de perfil</h1>
+</footer>
+
+ 
+       
+    </body>
